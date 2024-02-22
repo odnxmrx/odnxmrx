@@ -1,7 +1,4 @@
 
-
-### Welcome to my GitHub!  
-
 ### <div align="center">Hello World!🌎 Armando Gama here 👋 Full-stack developer based in México 👨‍💻 🚀</div>  
   
 
