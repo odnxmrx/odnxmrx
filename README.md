@@ -1,8 +1,8 @@
 
-### <div align="center">Hello World!🌎 Armando Gama here 👋 Full-stack developer based in México 👨‍💻 🚀</div>  
+### <div align="center">Hello World!🌎 Armando Pineda here 👋 Full-stack developer based in 🌊 Baja California Sur, México 👨‍💻 🚀</div>  
   
 
-**<div align="center">JavaScript | React | Node.js | Express | SQL | Sequelize | PostgreSQL</div>**  
+**<div align="center">JavaScript | React | Node.js | Express | SQL | Sequelize ORM | PostgreSQL | GIT</div>**  
   
 
 ## About Me  
