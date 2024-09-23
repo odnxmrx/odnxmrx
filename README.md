@@ -1,11 +1,11 @@
 
-### <div align="center">Hello World!🌎 Armando Pineda here 👋 Full-stack developer based in 🌊 Baja California Sur, México 👨‍💻 🚀</div>  
+### <div align="center">Hello World!🌎 Armando Gama here 👋 Full-stack developer based in 🌊 Baja California Sur, México 👨‍💻 🚀</div>  
   
 
 **<div align="center">JavaScript | React | Node.js | Express | SQL | Sequelize ORM | PostgreSQL | GIT</div>**  
   
 
-## About Me  
+## About  
   
 
 💻 Experienced in both Front End and Back End technologies, proficiently navigating across the Full Stack. My skill set includes: JavaScript, Node.js, GIT, GitHub, Redux, SQL, Sequelize ORM, PostgreSQL, and other tools.  
@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
@@ -53,7 +53,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's connect  
 🤝 Let's connect and talk all-things tech and programming world!
 
 📩armandopinedag@outlook.com
