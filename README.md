@@ -2,7 +2,7 @@
 ### <div align="center">Hello World!🌎 Armando Gama here 👋 Full-stack developer based in Guadalajara, Jalisco, México 👨‍💻 🚀</div>  
   
 
-**<div align="center">JavaScript | React | Node.js | Express | SQL | Sequelize ORM | PostgreSQL | GIT</div>**  
+**<div align="center">JavaScript | React | Node.js | Express | .Net Core | C# | SQL | Microsoft SQL Server | PostgreSQL | GIT</div>**  
   
 
 ## About  
