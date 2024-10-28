@@ -1,6 +1,8 @@
 
-### <div align="center">Hello World!🌎 Armando Gama here 👋 Full-stack developer based in Guadalajara, Jalisco, México 👨‍💻 🚀</div>  
-  
+# <div align="center">Hello World!🌎 Armando Gama here 👋</div>  
+
+### <div align="center">I'm a Full Stack Developer based in Guadalajara, Jalisco, México 👨‍💻 🚀</div>  
+
 
 **<div align="center">JavaScript | React | Node.js | Express | .Net Core | C# | SQL | Microsoft SQL Server | PostgreSQL | GIT</div>**  
   
