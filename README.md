@@ -1,12 +1,13 @@
 
 # <div align="center">Hello World!🌎 Armando Gama here 👋</div>  
 
-**<div align="center">JavaScript | React | Node.js | Express | .Net Core | C# | SQL | Microsoft SQL Server | PostgreSQL | GIT</div>**  
+**<div align="center">Full Stack Developer | Computer Systems Engineer</div>**  
+**<div align="center">JavaScript | React | Node.js | C# | SQL | MSQLServer | PostgreSQL | GIT</div>**  
   
 
 ## About  
   
-I'm a Full Stack Developer based in Guadalajara, Jalisco, México 👨‍💻 🚀
+Full Stack Developer based in Guadalajara, Jalisco, México 👨‍💻 🚀
 
 💻 Experienced in both Front End and Back End technologies, proficiently navigating across the Full Stack. My skill set includes: JavaScript, ReactJS, Node.js, GitHub, Redux, SQL, Microsoft SQL Server, PostgreSQL, and other tools.
   
@@ -53,7 +54,7 @@ I'm a Full Stack Developer based in Guadalajara, Jalisco, México 👨‍💻 �
 <br/>  
 
 
-## Let's connect  
+## Socials  
 🤝 Let's connect and talk all-things tech and programming world!
 
 📩armandopinedag@outlook.com
